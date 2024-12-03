@@ -1,0 +1,39 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: rgb(17, 236, 17);
+    font-style: italic;
+}
+
+.a1{
+    letter-spacing: 5px;
+    color: brown;
+}
+
+.m1{
+    color: brown;
+    font-weight: bold;
+}
+
+.para1{
+    font-size: large;
+    color: brown;
+}
+
+.para2{
+    font-size: xx-small;
+    color: brown;
+}
+
+.para3{
+    font-style: italic;
+    color: brown;
+}
+
+a{
+    color: brown;
+    text-decoration: none;
+    background-color: yellow;
+}
